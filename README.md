@@ -1,6 +1,6 @@
-#Practica 1
+# Practica 1
 
-Crea un proyecto para una App que implemente lo siguiente:
+## Crea un proyecto para una App que implemente lo siguiente:
 
 1. Navegación principal con un objeto Tabbar
 
